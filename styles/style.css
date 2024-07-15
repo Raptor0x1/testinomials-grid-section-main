@@ -131,6 +131,7 @@ body {
     .container {
         grid-template-columns: repeat(4, 1fr);
         gap: 1.8rem;
+        width: 80%;
         max-width: 80rem;
     }
 
